@@ -2,7 +2,7 @@
 
 ### Overview
 This project demonstrates how to perform data analysis and machine learning using a non-relational (NoSQL) database, specifically MongoDB, in combination with scikit-learn, a popular machine learning library in Python. The project covers the following steps:
-1. Setting up and connecting to MongoDB. (bd.py)
+1. Setting up and connecting to MongoDB.
 2. Creating a database and a collection.
 3. Inserting sample data into the collection.
 4. Loading the data from MongoDB into a pandas DataFrame.
